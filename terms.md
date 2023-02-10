@@ -6,7 +6,7 @@ These Terms of Service (“Terms”) are a contract between you and Gina De La R
 
 By using Else If, you agree to these Terms. If you don’t agree to any of the Terms, you can’t use Else If.
 
-We can change these Terms at any time. We keep [a historical record of all changes to our Terms on GitHub](https://github.com/elseiflegal). If a change is material, we’ll let you know before they take effect. By using Else If on or after that effective date, you agree to the new Terms. If you don’t agree to them, you should delete the app before they take effect, otherwise your use of the Services will be subject to the new Terms.
+We can change these Terms at any time. We keep [a historical record of all changes to our Terms on GitHub](https://github.com/gdelarosa/elseiflegal). By using Else If on or after that effective date, you agree to the new Terms. If you don’t agree to them, you should delete the app before they take effect, otherwise your use of the Services will be subject to the new Terms.
 
 ## Content rights & responsibilities
 
@@ -33,9 +33,7 @@ If you find a security vulnerability on Else If, please email [eraofchamps@gmail
 
 ## Incorporated rules and policies
 
-By using the Services, you agree to let Else If collect and use information as detailed in our [Privacy Policy](https://github.com/elseiflegal/main/policy.md). If you’re outside the United States, you consent to letting Else If transfer, store, and process your information (including your personal information and content) in and out of the United States.
-
-To enable a functioning community, we have rules that are available within the product and may change over time. Under our [Copyright and DMCA Policy](https://github.com/elseiflegal/legal/blob/main/dmca.md), we’ll remove material after receiving a valid takedown notice.
+By using the Services, you agree to let Else If collect and use information as detailed in our [Privacy Policy](https://github.com/gdelarosa/elseiflegal/blob/main/policy.md). If you’re outside the United States, you consent to letting Else If transfer, store, and process your information (including your personal information and content) in and out of the United States.
 
 By using Else If, you agree to follow these Rules and Policies. If you don’t, we may ban you.
 
