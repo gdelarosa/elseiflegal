@@ -2,7 +2,7 @@ Privacy Policy
                                                                       
 Information we collect
 
-We use Apple's opt-in service for crash repoprting which includes your device, version of iOS, and the date of when the crash occurs.This is viewable by us. 
+We use Apple's opt-in service for crash reporting which includes your device, version of iOS, and the date of when the crash occurs. This is viewable by us. 
 
 Technical basics
 
