@@ -6,7 +6,7 @@ This policy sets out our privacy practices and explains how we handle the inform
 
 ## What we may collect
 
-We collect information about your browser or mobile device (such as device or browser type). We may collect and store your Internet Protocol address and other information that can uniquely identify you. We may use this information to fight spam and other abuse.
+We collect information about your browser or mobile device (such as device or browser type). 
 
 We use Apple's opt-in service for crash reporting which includes your device, version of iOS, and the date of when the crash occurs. This is viewable by us. 
 
